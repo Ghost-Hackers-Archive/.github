@@ -2,13 +2,13 @@
   <img src="/profile/ghost_hackers_logo.png" width="100%" alt="Ghost Hackers Logo" />
 </div>
 
-> # <p align="center">[Code of Conduct](/CODE_OF_CONDUCT.md)</p>
+> # <p align="center">[Code of Conduct](CODE_OF_CONDUCT)</p>
 
 > ## Purpose & Commitment
 
 <div align="justify">
 
-  [Ghost Hackers Archive](https://github.com/orgs/Ghost-Hackers-Archive) is committed to providing a welcoming, safe, and inclusive environment for everyone. This [Code of Conduct](/CODE_OF_CONDUCT.md) outlines our expectations for all participants and the steps for reporting and resolving unacceptable behavior.
+  [Ghost Hackers Archive](https://github.com/orgs/Ghost-Hackers-Archive) is committed to providing a welcoming, safe, and inclusive environment for everyone. This [Code of Conduct](CODE_OF_CONDUCT) outlines our expectations for all participants and the steps for reporting and resolving unacceptable behavior.
 
   We believe that diversity and inclusion are essential to our community's success, and we strive to create a space where everyone feels valued and respected.
 
@@ -40,7 +40,7 @@
 
 <div align="justify">
 
-  Unacceptable behaviors include harassment, intimidation, or discrimination in any form. This also covers the use of sexualized language or imagery, unwelcome sexual attention or advances, trolling, insulting or derogatory comments, and personal or political attacks. Public or private harassment, publishing others’ private information without explicit permission, and sustained disruption of discussions, meetings, or events are not tolerated. Retaliation against individuals who report [Code of Conduct](/CODE_OF_CONDUCT.md) violations is strictly prohibited. Any conduct that could reasonably be considered inappropriate in a professional setting is also unacceptable.
+  Unacceptable behaviors include harassment, intimidation, or discrimination in any form. This also covers the use of sexualized language or imagery, unwelcome sexual attention or advances, trolling, insulting or derogatory comments, and personal or political attacks. Public or private harassment, publishing others’ private information without explicit permission, and sustained disruption of discussions, meetings, or events are not tolerated. Retaliation against individuals who report [Code of Conduct](CODE_OF_CONDUCT) violations is strictly prohibited. Any conduct that could reasonably be considered inappropriate in a professional setting is also unacceptable.
 
   We do not tolerate any form of hate speech, including but not limited to racism, sexism, homophobia, transphobia, ableism, or any other form of discrimination. Participants should be mindful of their language and behavior, ensuring that it is inclusive and respectful of all individuals.
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-  [![Report Code of Conduct Violation](https://img.shields.io/badge/Report-Code%20of%20Conduct%20Violation-red?style=plastic&logo=gmail)](mailto:ghost-hackers@outlook.com?subject=Code%20of%20Conduct%20Report&body=Hello%20Ghost%20Hackers%20Team,%0A%0AI%20would%20like%20to%20report%20a%20potential%20violation%20of%20the%20Code%20of%20Conduct.%0A%0A---%0A**Your%20Name%20(optional):**%20[Your%20Name]%0A**Contact%20Information%20(optional):**%20[Email%20or%20other%20contact]%0A%0A**Description%20of%20Incident:**%0A[Please%20describe%20what%20happened,%20who%20was%20involved,%20and%20when%20it%20occurred.%20Include%20any%20relevant%20details%20or%20evidence.]%0A%0A**How%20was%20the%20Code%20of%20Conduct%20breached?**%0A[Explain%20which%20part%20of%20the%20Code%20of%20Conduct%20you%20believe%20was%20violated%20and%20why.]%0A%0A**Additional%20Information%20or%20Concerns:**%0A[Optional]%0A%0A---%0ABy%20submitting%20this%20report,%20I%20acknowledge%20the%20Ghost%20Hackers%20Code%20of%20Conduct:%20https://github.com/Ghost-Hackers/.github/CODE_OF_CONDUCT.md)
+  [![Report Code of Conduct Violation](https://img.shields.io/badge/Report-Code%20of%20Conduct%20Violation-red?style=plastic&logo=gmail)](mailto:ghost-hackers@outlook.com?subject=Code%20of%20Conduct%20Report&body=Hello%20Ghost%20Hackers%20Team,%0A%0AI%20would%20like%20to%20report%20a%20potential%20violation%20of%20the%20Code%20of%20Conduct.%0A%0A---%0A**Your%20Name%20(optional):**%20[Your%20Name]%0A**Contact%20Information%20(optional):**%20[Email%20or%20other%20contact]%0A%0A**Description%20of%20Incident:**%0A[Please%20describe%20what%20happened,%20who%20was%20involved,%20and%20when%20it%20occurred.%20Include%20any%20relevant%20details%20or%20evidence.]%0A%0A**How%20was%20the%20Code%20of%20Conduct%20breached?**%0A[Explain%20which%20part%20of%20the%20Code%20of%20Conduct%20you%20believe%20was%20violated%20and%20why.]%0A%0A**Additional%20Information%20or%20Concerns:**%0A[Optional]%0A%0A---%0ABy%20submitting%20this%20report,%20I%20acknowledge%20the%20Ghost%20Hackers%20Code%20of%20Conduct:%20https://github.com/Ghost-Hackers/.githubCODE_OF_CONDUCT)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="justify">
 
-  This [Code of Conduct](/CODE_OF_CONDUCT.md) applies to all project spaces, including online platforms, public events, private communications, and any situation where an individual is representing [Ghost Hackers Archive](https://github.com/orgs/Ghost-Hackers-Archive) or its community, both online and offline.
+  This [Code of Conduct](CODE_OF_CONDUCT) applies to all project spaces, including online platforms, public events, private communications, and any situation where an individual is representing [Ghost Hackers Archive](https://github.com/orgs/Ghost-Hackers-Archive) or its community, both online and offline.
 
   It also applies to all participants, including contributors, maintainers, organizers, and community members.
 
@@ -112,7 +112,7 @@
 
 <div align="justify">
 
-  This [Code of Conduct](/CODE_OF_CONDUCT.md) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, and other open community guidelines.
+  This [Code of Conduct](CODE_OF_CONDUCT) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, and other open community guidelines.
 
   It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). We encourage other communities to adopt similar codes of conduct to promote a positive and inclusive environment.
 
