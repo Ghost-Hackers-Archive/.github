@@ -67,9 +67,7 @@
 
   Browse the [Archive Projects](https://github.com/orgs/Ghost-Hackers-Archive/repositories) to explore the spectral history of Ghost Hackers. Each repository is accompanied by a README that provides context, goals, and the story behind the project. Our archives are more than a graveyard—they are a library of inspiration, a place where the past meets the present.
 
-| | | |
-|:---:|:---:|:---:|
-| [![archived: SynXis-OnPortal-Launcher](https://img.shields.io/badge/archived-SynXis--OnPortal--Launcher-orange?style=plastic)](https://github.com/Ghost-Hackers-Archive/SynXis-OnPortal-Launcher) | [![archived: SynXis-Autoloader](https://img.shields.io/badge/archived-SynXis--Autoloader-orange?style=plastic)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader) | |
+[![archived: SynXis-OnPortal-Launcher](https://img.shields.io/badge/archived-SynXis--OnPortal--Launcher-orange?style=plastic)](https://github.com/Ghost-Hackers-Archive/SynXis-OnPortal-Launcher)&nbsp;[![archived: SynXis-Autoloader](https://img.shields.io/badge/archived-SynXis--Autoloader-orange?style=plastic)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader)<!--&nbsp;-->
 
 </div>
 
